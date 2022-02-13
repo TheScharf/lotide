@@ -34,7 +34,8 @@ const without = function(arr1, arr2) {
       }
     }
   }
-console.log(arr1);
+//console.log(arr1);
+return arr1;
 }
 
 without([1, 2, 3], [1]);
