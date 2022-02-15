@@ -52,3 +52,5 @@ const without = function(arr1, arr2) {
   }
 };
 */
+
+module.exports = without;
